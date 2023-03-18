@@ -1,3 +1,6 @@
+// The goal of this program is to divide a 7-segment class into 3 files .ino , .cpp & .h
+
+
 #include "seg.h"// includes the header file for the class
 
 int my7pins[7]{2, 3, 4, 5, 6, 7, 8};
